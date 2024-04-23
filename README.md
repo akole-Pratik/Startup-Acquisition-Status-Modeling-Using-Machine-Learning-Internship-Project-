@@ -29,9 +29,9 @@ This dataset serves as the foundation for building the machine learning model to
 ![image](https://github.com/akole-Pratik/Startup-Acquisition-Status-Modeling-Using-Machine-Learning-Internship-Project-/assets/81501071/fc07a2e1-107f-4973-8bac-517dfeb832cf)
 
 
-## Data Preprocessing
+# Data Preprocessing
 
-# Data Cleaning
+## Data Cleaning
 Data cleaning is a crucial step in the data preprocessing pipeline to ensure the quality and reliability of the dataset. This section outlines the steps taken to clean the startup dataset.
 
 1. Delete Irrelevant and Redundant Information
